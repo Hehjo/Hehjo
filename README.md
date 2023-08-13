@@ -1,2 +1,2 @@
-Input ( "hello" )
+print ("hello")
 
