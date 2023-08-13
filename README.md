@@ -1,2 +1,2 @@
-input ( "hello" )
+Input ( "hello" )
 
